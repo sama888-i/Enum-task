@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp17\\core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|solutionrelative:core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461B260F-38C8-4DA9-908C-43F340E9198D}|ConsoleApp17\\ConsoleApp17.csproj|c:\\users\\asus\\source\\repos\\consoleapp17\\consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461B260F-38C8-4DA9-908C-43F340E9198D}|ConsoleApp17\\ConsoleApp17.csproj|solutionrelative:consoleapp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp17\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|solutionrelative:core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp17\\core\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|solutionrelative:core\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp17\\core\\helpers\\enum\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|solutionrelative:core\\helpers\\enum\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp17\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\consoleapp17\\core\\helpers\\exceptions\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA424441-3C3B-4431-A7EB-F0558615D285}|Core\\Core.csproj|solutionrelative:core\\helpers\\exceptions\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PriceMustBeGratherThanZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Helpers\\Exceptions\\PriceMustBeGratherThanZeroException.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Exceptions\\PriceMustBeGratherThanZeroException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Helpers\\Exceptions\\PriceMustBeGratherThanZeroException.cs",
+              "RelativeToolTip": "Core\\Helpers\\Exceptions\\PriceMustBeGratherThanZeroException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:10:48.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Types.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Helpers\\Enum\\Types.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Enum\\Types.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Helpers\\Enum\\Types.cs",
+              "RelativeToolTip": "Core\\Helpers\\Enum\\Types.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:08:24.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T04:05:27.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Models\\Store.cs",
+              "RelativeToolTip": "Core\\Models\\Store.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:02:00.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Models\\Product.cs",
+              "RelativeToolTip": "Core\\Models\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:01:43.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\Core\\Class1.cs",
+              "RelativeToolTip": "Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:00:57.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp17\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ConsoleApp17\\ConsoleApp17\\Program.cs",
+              "RelativeToolTip": "ConsoleApp17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T04:00:17.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
